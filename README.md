@@ -3,6 +3,8 @@
 Bộ mã nguồn khởi đầu cho bài thi **DevOps Fundamentals – Cuối kỳ**.
 Ứng dụng hiển thị **danh sách công việc** lấy từ MySQL thông qua Spring Boot, trả về **dạng JSON** qua Nginx (reverse proxy).
 
+## IP NỘP bài: http://103.20.102.134:8080/api/tasks
+
 ## Kiến trúc
 
 ```
